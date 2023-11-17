@@ -1,0 +1,2 @@
+# CCLogging
+Simple Logging 
