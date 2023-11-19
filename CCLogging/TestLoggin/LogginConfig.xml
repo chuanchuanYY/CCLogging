@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+<loggin>
+	<target value="file" path="test.log" minlevel="warning" rollByKb="1"
+			rollByTime="1" maxCount="3" 
+			pattern="%date %newline[%level]  %message %newline"><!--minlevel 小于warning等级的都不输出-->
+	</target>	
+</loggin>
+</configuration>
+

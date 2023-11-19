@@ -1,0 +1,12 @@
+D:\MyWork\SimpleLoggin\CCLogging\CCLogging\CCLogging\bin\Debug\net6.0\CCLogging.deps.json
+D:\MyWork\SimpleLoggin\CCLogging\CCLogging\CCLogging\bin\Debug\net6.0\CCLogging.dll
+D:\MyWork\SimpleLoggin\CCLogging\CCLogging\CCLogging\bin\Debug\net6.0\CCLogging.pdb
+D:\MyWork\SimpleLoggin\CCLogging\CCLogging\CCLogging\obj\Debug\net6.0\CCLogging.csproj.AssemblyReference.cache
+D:\MyWork\SimpleLoggin\CCLogging\CCLogging\CCLogging\obj\Debug\net6.0\CCLogging.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyWork\SimpleLoggin\CCLogging\CCLogging\CCLogging\obj\Debug\net6.0\CCLogging.AssemblyInfoInputs.cache
+D:\MyWork\SimpleLoggin\CCLogging\CCLogging\CCLogging\obj\Debug\net6.0\CCLogging.AssemblyInfo.cs
+D:\MyWork\SimpleLoggin\CCLogging\CCLogging\CCLogging\obj\Debug\net6.0\CCLogging.csproj.CoreCompileInputs.cache
+D:\MyWork\SimpleLoggin\CCLogging\CCLogging\CCLogging\obj\Debug\net6.0\CCLogging.dll
+D:\MyWork\SimpleLoggin\CCLogging\CCLogging\CCLogging\obj\Debug\net6.0\refint\CCLogging.dll
+D:\MyWork\SimpleLoggin\CCLogging\CCLogging\CCLogging\obj\Debug\net6.0\CCLogging.pdb
+D:\MyWork\SimpleLoggin\CCLogging\CCLogging\CCLogging\obj\Debug\net6.0\ref\CCLogging.dll
